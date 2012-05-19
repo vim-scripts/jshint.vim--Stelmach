@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4078
+
+jshint.vim facilitates tight integration between JSHint and Vim.
+
+JavaScript files are automatically passed through JSHint when a buffer is saved, placing any warnings in the quickfix window for easy navigation to the source of the warning. To achieve acceptable performance, Google's V8 Engine is used for JavaScript execution.
+
+https://github.com/joestelmach/jshint.vim
